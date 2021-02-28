@@ -42,10 +42,6 @@ npm run start
 node index.js
 ```
 
-## Heroku deploy
-
-[https://things-mongo-parfenenkovedit.herokuapp.com/api/v2/things/](https://things-mongo-parfenenkovedit.herokuapp.com/api/v2/things/)
-
 ## Usage guide
 
 `GET api/v2/things -> list of all things`  
